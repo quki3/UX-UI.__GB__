@@ -18,3 +18,13 @@ Para el contenido:
 -¿Cual es la estructura?
 -¿Cuál es su volumen?
 -¿Cuál es su dinamismo?
+
+# sistema de organizacion
+Sistemas de organización
+
+    Por tema: Se utiliza mucho en e-commerce con categorías.
+    Por ubicación: El usuario necesita saber dónde queda algo
+    A -> Z: Se utiliza cuando para el usuario es lógico/útil buscar en orden alfabético: lista de autores, marcas.
+    Por facetas: Por lo general se usa al mostrar resultados de búsqueda y me permite refinarlos. Por ejemplo, en la búsqueda de inmuebles puedo selecionar cuántas habitaciones tiene, cuántos baños, si es amoblado o no, etc.
+
+Los sistemas de organización no son excluyentes, se pueden combinar dependiendo de nuestros usuarios y sus necesidades.
